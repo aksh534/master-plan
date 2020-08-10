@@ -1,0 +1,63 @@
+{
+	"serialNo": "1",
+	"activityName": "House",
+	"startDate": "2018-08-01",
+	"endDate": "2019-02-28",
+	"subActivities": [{
+			"serialNo": "1.1",
+			"activityName": "Foundation",
+			"startDate": "2018-08-01",
+			"endDate": "2019-09-04",
+			"subActivities": [{
+					"serialNo": "1.1.1",
+					"activityName": "Digging Soil",
+					"startDate": "2018-08-01",
+					"endDate": "2019-08-10",
+					"subActivities": []
+				},
+				{
+					"serialNo": "1.1.2",
+					"activityName": "Piling",
+					"startDate": "2018-08-11",
+					"endDate": "2019-11-04",
+					"subActivities": []
+				}
+			]
+		},
+		{
+			"serialNo": "1.2",
+			"activityName": "Floor",
+			"startDate": "2018-09-06",
+			"endDate": "2019-11-04",
+			"subActivities": [{
+				"serialNo": "1.2.1",
+				"activityName": "Tiling",
+				"startDate": "2018-09-06",
+				"endDate": "2019-11-04",
+				"subActivities": []
+			}]
+
+		},
+		{
+			"serialNo": "1.3",
+			"activityName": "Walls",
+			"startDate": "2018-11-06",
+			"endDate": "2019-01-14",
+			"subActivities": []
+		},
+		{
+			"serialNo": "1.4",
+			"activityName": "Roof",
+			"startDate": "2019-01-15",
+			"endDate": "2019-02-28",
+			"subActivities": []
+		},
+		{
+			"serialNo": "1.5",
+			"activityName": "Boundary Wall",
+			"startDate": "2018-08-01",
+			"endDate": "2018-09-02",
+			"subActivities": []
+		}
+	]
+}
